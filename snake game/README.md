@@ -1,0 +1,1 @@
+# Snake-Game Syncinterns task 1
